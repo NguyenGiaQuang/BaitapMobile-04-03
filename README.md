@@ -2,7 +2,7 @@
 # Nguyễn Gia Quang
 # MSV: 22810310438
 # Kết quả
-![Ảnh 1](anh1.jpg)
-![Ảnh 2](anh2.jpg)
-![Ảnh 3](anh3.jpg)
+![Ảnh 1](hinh1.jpg)
+![Ảnh 2](hinh2.jpg)
+![Ảnh 3](hinh3.jpg)
 
